@@ -1,2 +1,2 @@
 # nft-bootcamp-test
-Bootcampo de criação de NFTs usando Solidity
+Bootcamp de criação de NFTs usando Solidity
