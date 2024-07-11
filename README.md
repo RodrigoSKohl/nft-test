@@ -1,2 +1,2 @@
-# nft-test
-Teste de criação de mints de NFT
+# nft-bootcamp-test
+Bootcampo de criação de NFTs usando Solidity
